@@ -1,4 +1,0 @@
-__pycache__/
-flask
-leaves1
-.gitignore
